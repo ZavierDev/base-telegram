@@ -1,14 +1,14 @@
 // Bot Token dari @BotFather
-global.botToken = "8571256670:AAHUUdFMCHEkEc-rs-QYG-T1BgdLosZnq8Y"
+global.botToken = "TOKEN_BOT_TELEGRAM"
 
 // Owner Telegram User IDs (array)
 global.owners = [7461624450]
 
 // Database paths
-global.dbPathUser = "./database/users.json"
+global.dbPathUser = "./database/users.json" //jangan dihapus/diganti nanti eror
 global.dbPathProduct = "./database/products.json"
 // Maintain legacy path for initial migration check, but new system uses above
-global.dbPath = "./database/db.json"
+global.dbPath = "./database/db.json" //jangan dihapus/diganti nanti eror
 
 // Settings
 global.currency = "Rp"
