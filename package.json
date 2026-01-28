@@ -1,0 +1,24 @@
+{
+  "name": "Zavier",
+  "version": "1.0.0",
+  "description": "Bot Telegram By @Lynd atas permintaan @zavier",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "plugin"
+  ],
+  "author": "Lynd",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.2",
+    "lowdb": "^7.0.1",
+    "node-schedule": "^2.1.1",
+    "telegraf": "^4.16.3"
+  }
+}
