@@ -1,2 +1,3 @@
 # base-telegram
 INI BASE TELEGRAM SIMPLE STORE YGY
+@Lynd
